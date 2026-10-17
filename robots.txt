@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-74e41c3d06.xulijixie.cn/sitemap.xml

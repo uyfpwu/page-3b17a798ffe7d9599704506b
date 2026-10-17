@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "a631241e837b28f186385065",
+  "owner": "uyfpwu",
+  "repo": "page-3b17a798ffe7d9599704506b",
+  "title": "ziweiguan",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3b17a798ffe7d9599704506b",
+      "a": "ziweiguan",
+      "b": "",
+      "entity": "ziweiguan",
+      "brand": "ziweiguan",
+      "separator": "",
+      "path": "index.html",
+      "hash": "466570d3cc0dec63c790307b599a2d9634d5dd209e9fdb78458c8052aeca6f95",
+      "content": {
+        "keyword1": "ziweiguan",
+        "keyword2": "",
+        "primary_entity": "ziweiguan",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "紫微馆 (ziweiguan) 为你提供如朋友般贴心的数字连接指南与服务套餐说明，让每一次访问都顺畅安心。",
+          "AI_DESCRIPTION": "紫微馆 (ziweiguan) 为你提供如朋友般贴心的数字连接指南与服务套餐说明，让每一次访问都顺畅安心。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg-color: #fcfbf9;--text-color: #2c2a29;--accent-color: #b33928;--panel-bg: #f4f1ea;--border-color: #2c2a29;--font-main: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif}\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background-color: var(--bg-color);color: var(--text-color);font-family: var(--font-main);line-height: 1.7;display: flex;min-height: 100vh}\naside {width: 260px;background-color: var(--panel-bg);border-right: 3px solid var(--border-color);padding: 40px 24px;position: fixed;top: 0;bottom: 0;left: 0;overflow-y: auto}\naside h2 {font-size: 1.2rem;margin-bottom: 24px;color: var(--accent-color);letter-spacing: 1px}\naside nav ul {list-style: none}\naside nav li {margin-bottom: 16px}\naside nav a {color: var(--text-color);text-decoration: none;font-weight: 600;font-size: 0.95rem;display: block;padding: 8px 12px;border: 2px solid transparent;transition: all 0.2s ease}\naside nav a:hover {border-color: var(--border-color);background-color: var(--bg-color)}\nmain {margin-left: 260px;flex: 1;padding: 60px 80px;max-width: 1100px}\nheader.hero {margin-bottom: 80px}\nheader.hero h1 {font-size: 3.5rem;font-weight: 900;color: var(--accent-color);margin-bottom: 16px;line-height: 1.2}\nheader.hero p.lead {font-size: 1.25rem;max-width: 700px;margin-bottom: 40px}\n.timeline {position: relative;border-left: 3px solid var(--accent-color);padding-left: 30px;margin-top: 30px}\n.timeline-item {position: relative;margin-bottom: 40px}\n.timeline-item::before {content: \"\";position: absolute;left: -37.5px;top: 6px;width: 12px;height: 12px;background-color: var(--accent-color);border: 2px solid var(--bg-color)}\n.timeline-item h3 {font-size: 1.2rem;margin-bottom: 8px;color: var(--accent-color)}\nsection {margin-bottom: 80px}\nh2.section-title {font-size: 2rem;margin-bottom: 30px;border-bottom: 3px solid var(--border-color);padding-bottom: 10px;display: inline-block}\n.card {border: 3px solid var(--border-color);background-color: var(--bg-color);padding: 30px;margin-bottom: 30px;box-shadow: 6px 6px 0px var(--border-color)}\n.plans-list .plan-row {border: 3px solid var(--border-color);background-color: var(--panel-bg);padding: 30px;margin-bottom: 24px;box-shadow: 4px 4px 0px var(--border-color)}\n.plan-row h3 {font-size: 1.5rem;color: var(--accent-color);margin-bottom: 10px}\n.plan-row .price {font-size: 1.3rem;font-weight: bold;margin-bottom: 15px}\n.plan-row ul {list-style: square inside;margin-bottom: 20px}\n.plan-row ul li {margin-bottom: 6px}\n.btn {display: inline-block;background-color: var(--accent-color);color: #fff;padding: 12px 28px;text-decoration: none;font-weight: bold;border: 2px solid var(--border-color);box-shadow: 3px 3px 0px var(--border-color);transition: transform 0.1s ease, box-shadow 0.1s ease}\n.btn:hover {transform: translate(-2px, -2px);box-shadow: 5px 5px 0px var(--border-color)}\n.faq-list {list-style: none}\n.faq-item {border: 3px solid var(--border-color);padding: 24px;margin-bottom: 20px;background-color: var(--panel-bg);box-shadow: 4px 4px 0px var(--border-color)}\n.faq-item h3 {font-size: 1.15rem;margin-bottom: 12px;color: var(--accent-color)}\nfooter {margin-top: 100px;border-top: 2px solid var(--border-color);padding-top: 30px;font-size: 0.9rem;color: #666;text-align: center}\n@media (max-width: 768px) {\n  body {flex-direction: column}\n  aside {position: relative;width: 100%;border-right: none;border-bottom: 3px solid var(--border-color);padding: 20px}\n  main {margin-left: 0;padding: 30px 20px}\n  header.hero h1 {font-size: 2.5rem}\n}\n</style><aside>\n  <h1>ziweiguan · 紫微馆导航</h1>\n  <nav>\n    <ul>\n      <li><a href=\"#hero\">馆主寄语</a></li>\n      <li><a href=\"#story\">成长历程</a></li>\n      <li><a href=\"#plans\">方案选择</a></li>\n      <li><a href=\"#guide\">使用指南</a></li>\n      <li><a href=\"#faq\">常见疑问</a></li>\n    </ul>\n  </nav>\n</aside>\n\n<main>\n  <header id=\"hero\" class=\"hero\">\n    <h2>紫微馆 (ziweiguan)</h2>\n    <p class=\"lead\">嗨！很高兴在这里与你相遇。我们把复杂的网络连接整理得简简单单，就像老朋友间的随心闲聊，给你最安心、最舒服的陪伴。</p>\n    <a href=\"#plans\" class=\"btn\">查看精选方案</a>\n  </header>\n\n  <section id=\"story\">\n    <h2 class=\"section-title\">我们的漫步足迹</h2>\n    <p>从最初的一个小构想，到如今稳稳陪伴在大家身边的数字小站，紫微馆一路走来，始终坚持把简单和真诚留给每一位访客。</p>\n    \n    <div class=\"timeline\">\n      <div class=\"timeline-item\">\n        <h3>第一步：萌芽与初探</h3>\n        <p>我们发现日常网络世界里总有些小小的磕绊，于是决定搭建一个让人觉得轻松、没有距离感的小角落。</p>\n      </div>\n      <div class=\"timeline-item\">\n        <h3>第二步：打磨与优化</h3>\n        <p>通过不断的测试和调整，我们理顺了各个节点的脾气，让日常冲浪、查阅资料、观看视频变得像呼吸一样自然。</p>\n      </div>\n      <div class=\"timeline-item\">\n        <h3>第三步：温暖常伴</h3>\n        <p>现在的紫微馆已经准备好了各种贴心的方案，无论你是轻度翻阅还是深度冲浪，总有一款刚刚好适合你。</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"plans\">\n    <h2 class=\"section-title\">精选方案</h2>\n    <p>我们为你准备了三种不同节奏的伙伴方案，来看看哪一种最对你的胃口吧：</p>\n    \n    <div class=\"plans-list\">\n      <div class=\"plan-row\">\n        <h3>基础版</h3>\n        <div class=\"price\">¥15/月 <span>（按年付仅需 ¥150/年）</span></div>\n        <ul>\n          <li>每月 100GB 极速流量，日常浏览轻松搞定</li>\n          <li>支持 3 台设备同时在线，手机电脑一起照顾到</li>\n          <li>解锁基础流媒体，休闲时光不无聊</li>\n          <li>普通线路节点池，稳定陪伴每一天</li>\n        </ul>\n        <a href=\"#faq\" class=\"btn\">选择基础版</a>\n      </div>\n\n      <div class=\"plan-row\">\n        <h3>旗舰版 <span>大家最爱</span></h3>\n        <div class=\"price\">¥35/月 <span>（按年付仅需 ¥350/年）</span></div>\n        <ul>\n          <li>每月 300GB 极速流量，大文件随心下载</li>\n          <li>支持 5 台设备同时在线，全家老小或者多端办公都合拍</li>\n          <li>全节点原生流媒体解锁，追剧看片再无阻碍</li>\n          <li>IPLC 专线游戏加速优化，低延迟更顺畅</li>\n          <li>7x24 优先工单支持，遇到小问题随时找我们</li>\n        </ul>\n        <a href=\"#faq\" class=\"btn\">选择旗舰版</a>\n      </div>\n\n      <div class=\"plan-row\">\n        <h3>团队版</h3>\n        <div class=\"price\">¥85/月 <span>（按年付仅需 ¥850/年）</span></div>\n        <ul>\n          <li>每月 1000GB 极速流量，告别流量焦虑</li>\n          <li>支持 20 台设备同时在线，小型团队或工作室的最佳搭档</li>\n          <li>VIP 专属高带宽节点，速度快人一步</li>\n          <li>支持企业定制路由，满足各种特殊网络需求</li>\n          <li>专属客户经理服务，一对一贴心沟通</li>\n        </ul>\n        <a href=\"#faq\" class=\"btn\">选择团队版</a>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"guide\">\n    <h2 class=\"section-title\">使用小贴士</h2>\n    <div class=\"card\">\n      <h3>如何开始你的紫微馆之旅？</h3>\n      <p>别担心，整个过程非常轻松，就像给手机装个新应用一样简单：</p>\n      <ol>\n        <li>挑选一个最适合你当前需求的方案，并完成对应的小额支持。</li>\n        <li>在你的设备上获取专属的连接订阅链接或配置文件。</li>\n        <li>导入你喜欢的客户端软件（如 Clash、Shadowrocket 等），轻轻一键就能点亮连接。</li>\n        <li>如果中途遇到任何搞不懂的小地方，随时翻翻下面的常见问题，或者跟我们打个招呼哦！</li>\n      </ol>\n    </div>\n  </section>\n\n  <section id=\"faq\">\n    <h2 class=\"section-title\">常见疑问</h2>\n    <ul class=\"faq-list\">\n      <li class=\"faq-item\">\n        <h3>01. 紫微馆适合新手吗？会不会很难上手？</h3>\n        <p>完全不用担心！我们特意把所有的说明都写得像朋友聊天一样通俗易懂。跟着使用指南走，几分钟就能顺利连上。如果在某一步卡住了，随时能找到我们帮忙。</p>\n      </li>\n      <li class=\"faq-item\">\n        <h3>02. 如果我买了一个月，中途想换成按年付可以吗？</h3>\n        <p>当然可以！随时欢迎你调整自己的方案。如果需要调整或者升级，直接联系我们协助处理即可，我们会帮你把过程安排得妥妥帖帖。</p>\n      </li>\n      <li class=\"faq-item\">\n        <h3>03. 流量如果提前用完了怎么办？</h3>\n        <p>别慌。每个方案的流量都是按月定时重置的。如果这个月刚好遇到大动作、流量提前告罄，你也可以选择随时补充加油包，或者直接升级到更宽裕的方案哦。</p>\n      </li>\n      <li class=\"faq-item\">\n        <h3>04. 为什么有时候连接会突然不稳定？</h3>\n        <p>网络世界有时候就像天气一样，偶尔会起风浪。如果遇到节点偶尔调皮，通常切换到另一个推荐节点就能立刻恢复清爽。如果长时间不顺心，记得告诉我们来检查后台线路。</p>\n      </li>\n    </ul>\n  </section>\n\n  <footer>\n    <p>© 紫微馆 (ziweiguan). 把每一个数字日子过得舒心、自在。</p>\n  </footer>\n</main>",
+          "hash": "c57690ab8e7035cdd919af2a4955c53e06cef27ef95d3d45e748032e1fe940a4",
+          "seo": {
+            "title": "紫微馆 (ziweiguan) - 您的私密数字空间与连接指南",
+            "keywords": "紫微馆, ziweiguan, 数字生活, 路线指南, 网络连接, 体验说明",
+            "description": "紫微馆 (ziweiguan) 为你提供如朋友般贴心的数字连接指南与服务套餐说明，让每一次访问都顺畅安心。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "661",
+            "hero": "6 纵向时间线引入",
+            "palette": "2 米白配砖红",
+            "nav": "2 左侧竖排目录",
+            "card": "2 粗描边直角",
+            "plans_view": "2 纵向列表逐行展开",
+            "faq_view": "2 编号列表",
+            "tone": "2 亲切的朋友式口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xulijixie.cn",
+    "host": "p-74e41c3d06.xulijixie.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "8d979e3fcf1c4e6c8a3b60f42f76fb342a9fbd4d6d525899424cb572879fe5b5",
+    "sitemap.xml": "398d6d8c1789028e02aefc6c2141181f03a324ffd23e87df13fd6e616f19e59c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0374f156b866846b546c0c4d706dd08567b8e776f9de37c0e22f03ac92bfee27",
+    "robots.txt": "a58c57da433bd63a5c026c53ce52f67da45d26a9a6fc6548f2db11240558be5d",
+    "8a304375e8ba8b335e79dbfe56a6f7a5.txt": "090301f7e33c962198a1ea2d6348a044b1664dcaab3f570804ffe3dc729a3777"
+  },
+  "revision": "7c48cb2cfb347ad805ff6b6aafe659405033d7b2687c76185f2fba3737fe606b"
+}
